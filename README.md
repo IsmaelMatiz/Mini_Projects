@@ -15,6 +15,6 @@ and then the new file in the same directory called
 
 now you can check that both of the image are pretty similar and the `NEW.jpg` is smaller than the original
 
-######rights to this [video](https://www.youtube.com/shorts/CDvs8dZPFDI) from [Linkfy](https://www.youtube.com/c/Linkfydev)
+#####rights to this [video](https://www.youtube.com/shorts/CDvs8dZPFDI) from [Linkfy](https://www.youtube.com/c/Linkfydev)
 
 <!--TODO: Explain how i developed the project-->
