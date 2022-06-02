@@ -3,7 +3,7 @@
 In this project i did a little compressor of an image to reduce the size of an image
 with a couple of line in python
 
-##How it works?
+*How it works?*
 
 you must run it in the console and you should type
 `python compressor.py image.png`
