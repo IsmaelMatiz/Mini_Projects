@@ -11,7 +11,8 @@ How I said before I want to know a little bit more about CSS animations before c
 Credits to this video [Learn CSS Animation In 15 Minutes](https://www.youtube.com/watch?v=YszONjKpgg4)
 
 ---
-##Final result?
 
-A ball translating in axis x over and over
+## Final result?
+
+A ball translating in axis x changing color over and over
 
