@@ -1,15 +1,17 @@
-# Mini Projects
-In this repo i will do some interesting quick projects in python, javascript and maybe other languages
+# First CSS animation
 
-## Every project will be in a different branch than the others, just for sort better the repo
+This is not a specific project but its something necessary I was doing my website to show my skills and path, but I want a special website, I want to add some animations, but, first, I want to know a little bit more about how the animations work in CSS 
+___
 
-## Why do i do this?
+## Why do I do this?
 
-I think that i need to start to do projects more frecuently and this could be a way to do some of them in the middle from the other big projects
+How I said before I want to know a little bit more about CSS animations before continuing with my website
+
+
+Credits to this video [Learn CSS Animation In 15 Minutes](https://www.youtube.com/watch?v=YszONjKpgg4)
+
 ---
+##Final result?
 
-Some of the projects are from this youtube channel [Linkfy](https://www.youtube.com/c/Linkfydev) rights to this channel.
-i just redo the projects and maybe add one or two things
+A ball translating in axis x over and over
 
----
-if i find other youtube channels or blogs... i will add the autors here
